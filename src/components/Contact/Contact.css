@@ -1,0 +1,38 @@
+.background{
+    background: #f5f5f5;   
+}
+/*icon colors*/
+.fa-envelope{
+    color: rgb(219, 0, 0);
+}
+.fa-envelope:hover{
+    color: #575757;
+}
+.fa-github{
+    color: #000000;
+}
+.fa-github:hover{
+    color: #575757;
+}
+.fa-linkedin{
+    color: #0e76a8;
+}
+.fa-linkedin:hover{
+    color: #575757;
+}
+/*padding container-fluid*/
+.p{
+    padding: 0;
+}
+.col-md{
+    padding: 4rem;
+}
+/*Subtitle*/
+.subtitle{
+    padding-bottom: 3rem;
+}
+/*size icons*/
+.size{
+    width: 10rem;
+    font-size: 1rem;
+}

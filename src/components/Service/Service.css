@@ -1,0 +1,50 @@
+.background{
+    background: #f5f5f5;
+    padding: 10rem 1rem 5rem 1rem;
+}
+/*image icon*/
+.m-20{
+    margin:4rem 0 1rem 0;
+}
+.fa-mobile-alt{
+color: #6265fc;
+}
+.fa-mobile-alt:hover{
+    color: #000000;
+}
+.fa-pencil-ruler{
+    color: rgb(255, 153, 0);
+}
+.fa-pencil-ruler:hover{
+    color: #000000;
+}
+.fa-terminal{
+    color: rgb(0, 128, 0);
+}
+.fa-terminal:hover{
+    color:#000000;
+}
+.fa-thumbs-up{
+    color: rgba(228, 61, 0, 0.911);
+}
+.fa-thumbs-up:hover{
+    color:#000000 ;
+}
+.fa-tachometer-alt{
+    color: #f06595;
+}
+.fa-tachometer-alt:hover{
+    color: #000000;
+}
+.fa-crosshairs{
+    color: rgb(35, 35, 221);
+}
+.fa-crosshairs:hover{
+    color: #000000;
+}
+
+.subtitle-{
+    width: 15rem;
+    display: flex;
+    justify-content: center;
+}

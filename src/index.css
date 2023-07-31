@@ -1,0 +1,39 @@
+
+
+
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url(./assets/img/wallpaper.png);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: rgb(0, 0, 0);
+}
+.rounded-circle{
+  width: 15rem;
+  height: auto;;
+}
+.pharse{
+  color: #ffffff;
+}
+.margin-top{
+  margin-top:6rem ;
+}
+.bg-nav{
+  background:  #080404 ;
+}
+.rounded-3{
+  padding-left: 0.6rem;
+}
+.cursor-pointer{
+  cursor: pointer;
+}
