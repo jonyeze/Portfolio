@@ -7,7 +7,7 @@ const Contact = () => {
     return (
 
         <div className='container-fluid background'>
-            <a name='contact' />
+            <a name='contact'  target='_blank' rel="noreferrer" title='Contact'/>
             <div className='subtitle'>
                 <h3 className='fw-bold fs-1'>{t('contact.contact')}</h3>
                 <span className='fs-6 fw-bold'>{t('contact.contact-p')}</span>
