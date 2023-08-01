@@ -21,7 +21,7 @@ const Skills = () => {
 
                         <p className='paragraph'>{t('skills.paragraph-2')}</p>
 
-                        <a href='https://drive.google.com/file/d/16pvJUi-x8cTmZ1JvIXO45FlcDKf7lNOx/view?usp=sharing' target='_blank'>
+                        <a href='https://drive.google.com/file/d/1F87m96A38gU_OW3aA6Dq-woiYWewsvrW/view?usp=sharing' target='_blank'>
                             <button type='button' className='btn btn-lg fs-6'><i className="fas fa-angle-double-down">
                             </i>{t('skills.download')}</button></a>
                     </div>
